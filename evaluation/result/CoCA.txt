@@ -1,0 +1,4 @@
+3_Deform2LocalCost_loss_2_data2_dec_B2VGGF_adapFPNR2R_imgcycloss3_iter2_2_CoCoSeg_iter58671: Smeasure:0.7657 || meanEm:0.7891 || adpEm:0.7721 || maxEm:0.8445 || wFmeasure:0.5850 || adpFm:0.6078 || meanFm:0.6398 || maxFm:0.6928 ||  MAE:0.0878 || fnr:0.1792
+3_Deform2LocalCost_loss_2_data2_dec_B2VGGF_adapFPNR2R_imgcycloss3_iter2_2_CoCoSeg_iter67996: Smeasure:0.7585 || meanEm:0.7758 || adpEm:0.7675 || maxEm:0.8236 || wFmeasure:0.5908 || adpFm:0.6132 || meanFm:0.6318 || maxFm:0.6739 ||  MAE:0.0929 || fnr:0.1528
+CONDA_duts_coco9k: Smeasure:0.7540 || meanEm:0.7723 || adpEm:0.7632 || maxEm:0.8223 || wFmeasure:0.5858 || adpFm:0.6081 || meanFm:0.6278 || maxFm:0.6723 ||  MAE:0.0948 || fnr:0.1579
+CONDA_duts_cocoseg: Smeasure:0.7635 || meanEm:0.7862 || adpEm:0.7696 || maxEm:0.8408 || wFmeasure:0.5807 || adpFm:0.6080 || meanFm:0.6361 || maxFm:0.6901 ||  MAE:0.0886 || fnr:0.1796
