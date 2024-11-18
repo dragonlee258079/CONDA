@@ -1,0 +1,1 @@
+This path is to place the pre-train model, e.g. vgg-16
