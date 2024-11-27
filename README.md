@@ -46,7 +46,7 @@ Download the dataset from [Baidu Driver](https://pan.baidu.com/s/192MnRSgXSDXb0l
 
 
 ## Testing model
-1. Download our trained model from [DUTS+CoCo9k](https://pan.baidu.com/s/1_yC8_p3GeCcvs_lAGUFfvg?pwd=qxye) (qxye) or [DUTS+CoCo_Seg]( https://pan.baidu.com/s/1TzTOWl3q31WTIr8Wit9fFg?pwd=1qiy) (1qiy).
+1. Download our trained model from [DUTS+CoCo9k](https://pan.baidu.com/s/1_yC8_p3GeCcvs_lAGUFfvg?pwd=qxye) (qxye) or [DUTS+CoCoSeg]( https://pan.baidu.com/s/1TzTOWl3q31WTIr8Wit9fFg?pwd=1qiy) (1qiy).
 and put them into `./checkpoint/CVPR2023_Final_Code` folder.
 3. Run `python test.py`.
 4. The prediction images will be saved in `./prediction`. 
