@@ -22,3 +22,24 @@ The prediction results of our dataset can be download from [prediction](https://
 - Detectron2: follow [Detectron2 installation instructions](https://detectron2.readthedocs.io/tutorials/install.html).
 - OpenCV is optional but needed by demo and visualization
 - `pip install -r requirements.txt`
+
+## Data Preparation
+Download the dataset from [Baidu Driver](https://pan.baidu.com/s/192MnRSgXSDXb0l7mJZ18ng) (cxx2) and unzip them to './dataset'. Then the structure of the './dataset' folder will show as following:
+````
+-- dataset
+   |-- train_data
+   |   |-- | CoCo9k
+   |   |-- | DUTS_class
+   |   |-- | DUTS_class_syn
+   |   |-- |-- | img_png_seamless_cloning_add_naive
+   |   |-- |-- | img_png_seamless_cloning_add_naive_reverse_2
+   |-- test_data
+   |   |-- | CoCA
+   |   |-- | CoSal2015
+   |   |-- | CoSOD3k
+````
+
+## Training model
+1. Download the pretrained VGG model from [Baidu Driver](https://pan.baidu.com/s/173-1VToeumXZy90cRw-Yqw)(sqd5) and put it into `./checkpoints` folder.
+2. Run `python train.py`. 
+3. The trained models with satisfactory performance will be saved in `./checkpoint/CVPR2023_Final_Code`
