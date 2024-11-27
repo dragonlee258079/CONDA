@@ -1,7 +1,7 @@
 # CONDA
 Code release for the ECCV 2024 paper "CONDA: Condensed Deep Association Learning for Co-Salient Object Detection" by Long Li, Junwei Han*, Dingwen Zhang, Zhongyu Li, Salman Khan, Rao Anwer, Hisham Cholakkal, Nian Liu*, Fahad Shahbaz Khan
 
-<img src="./introduction.jpg" alt="alt_text" width="600">  
+<img src="./introduction.jpg" alt="alt_text" width="650">  
 
 
 ## Abstract
