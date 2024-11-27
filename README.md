@@ -10,5 +10,6 @@ burden reduction and noise elimination. We also design an object-aware cycle con
 ## Result
 The prediction results of our dataset can be download from [prediction](https://pan.baidu.com/s/1vS3d0Jk0PygoL2FbHuM69Q?pwd=g5hd) (g5hd).
 
+<img src="./quantitative_result.jpg" alt="alt_text" width="500" height="300">  
 ![alt_text](./quantitative_result.jpg)
 ![alt_text](./qualitative_result.jpg)
